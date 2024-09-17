@@ -1,0 +1,3 @@
+El codigo se puede ejecutar en cualquier Jupiter. 
+Si se carga en Google Drive se puede ejecutar en la nube por medio de Google Colab.
+EL directorio y la ejecución del código se encuentra en los tres ultimos bloques de celdas.
